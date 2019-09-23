@@ -26,7 +26,7 @@ It's a trick question.  There is no level of management that will make you a lea
 8. Start implementing
    * The more people that you have on board with your proposed solution, the easier it will be to put in place.  You may even find that there is a critical mass that once achieved, the change will naturally happen.
 
-In short, you don't need permission to be a leader.  There is no ceremony that makes a person a leader.  It's a decision that you make, and a set of steps.  As you practice those steps, you'll get better at it.  After you do this a few times, you'll find yourself with plenty more leadership opportunities!  Other leaders are always on the lookout for those with a willingness to lead.  Those leaders are often in a position to give you more challenging opportunities. 
+In short, you don't need permission to be a leader.  There is no ceremony that makes a person a leader.  It's a decision that you make and a set of steps.  As you practice those steps, you'll get better at it.  After you do this a few times, you'll find yourself with plenty more leadership opportunities!  Other leaders are always on the lookout for those with a willingness to lead.  Those leaders are often in a position to give you more challenging opportunities. 
 
 I've put together a few potential problems to solve at your workplace.  I'd recommend you give the steps above a try and see what the results are for you!
 
