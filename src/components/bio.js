@@ -32,7 +32,7 @@ function Bio() {
             />
             <p>
               Written by <strong>{author}</strong> who lives and works in
-              Denver building useful things.
+              Denver building useful things and serving great teams.
               {` `}
             </p>
           </div>
